@@ -1,5 +1,10 @@
 # ff-Icecast
 
+![Windows Batch](https://img.shields.io/badge/Windows%20Batch-%23909090.svg?style=for-the-badge&logo=Windows&logoColor=white)
+[![Licence](https://img.shields.io/github/license/ykmn/ff-Logger?style=for-the-badge)](./LICENSE)
+![Microsoft Windows](https://img.shields.io/badge/Microsoft-Windows-%FF5F91FF.svg?style=for-the-badge&logo=Microsoft%20Windows&logoColor=white)
+
+
 * ff-Icecast.bat: Простой source-клиент с функцией watchdog, позволяющий отправить звук с аудиовхода на сервер Icecast.
 
 * ff-Run.bat: Скрипт для одновременного запуска нескольких стримов на разные серверы.
